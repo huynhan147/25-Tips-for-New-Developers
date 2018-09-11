@@ -39,94 +39,87 @@ Nếu bạn đang học code như một nghề phụ, đặc biệt là nếu b�
 
 ### 7\. Start with free resources
 
-There are a million and one resources for learning how to code. Some are free, and some are paid. I would start with the free resources, make sure you like writing code, and then after that, you could think about moving onto paid resources or even a bootcamp. I have an article about my favorite free learn to code resources [here](https://zen-of-programming.com/favorite-free-resources).
+Có hàng triệu nguồn tài nguyên để học cách viết code. Một số là miễn phí, và một số phải trả phí. Tôi sẽ bắt đầu với các nguồn miễn phí, đảm bảo rằng bạn thích viết code, và sau đó, bạn có thể nghĩ đến việc chuyển sang nguồn trả phí hoặc thậm chí là một bootcamp. Tôi có một bài viết về các nguồn tài nguyên học code miễn phí mà tôi yêu thích [ở đây] (https://zen-of-programming.com/favorite-free-resources).
 
-### 8\. Find your niche
+### 8\. Tìm thứ thích hợp với bạn
 
-There are a lot of worlds within programming, find one world that you love and focus on that. Instead of trying to learn 8 programming languages, frontend and backend, compiled and interpreted languages, all the text editors and developer tools, etc. Find a few things you are really interested in and get good at them.
+Có rất nhiều thế giới trong lập trình, tìm một thế giới mà bạn yêu thích và tập trung vào đó. Thay vì cố gắng học 8 ngôn ngữ lập trình, frontend và backend, ngôn ngữ compiled và interpreted, tất cả trình chỉnh sửa văn bản và công cụ nhà phát triển, v.v. Tìm một vài điều bạn thực sự quan tâm và làm quen với chúng.
 
 ### 9\. Get good at pattern recognition
 
-Recognizing patterns in code is one of the most important skills you can have. When people talk about writing "DRY" code (i.e., Don't Repeat Yourself) they are talking about reducing the patterns in your code. I recommend the game Set for pattern recognition -- you can even [play online each day](https://www.nytimes.com/crosswords/game/set) on the New York Times' website!
+Nhận biết các mẫu code là một trong những kỹ năng quan trọng nhất mà bạn có thể có. Khi mọi người nói về cách viết code "DRY" (nghĩa là : Don't Repeat Yourself) họ đang nói về việc giảm các mẫu trong code của bạn. Tôi khuyên bạn nên chơi Trò chơi để nhận dạng mẫu - thậm chí bạn có thể [chơi online mỗi ngày] (https://www.nytimes.com/crosswords/game/set) trên trang web của  New Yorrk Time!
 
-### 10\. Make good habits early
+### 10\.  Sớm tạo thói quen tốt
 
-It will be easier to write clean code in the future if you get into the habit early. Bad habits can be hard to break. [Here](https://zen-of-programming.com/cleaner-code) are my tips for writing cleaner code. If you are doing web development, running [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) validators on your code can tell you exactly what to fix!
+Nó sẽ dễ dàng hơn để viết code clean hơn trong tương lai nếu bạn có thói quen sớm. Thói quen xấu có thể khó phá vỡ. [Ở đây] (https://zen-of-programming.com/cleaner-code) là lời khuyên của tôi để viết code clean hơn. Nếu bạn đang phát triển web, hãy chạy các trình xác thực [HTML] (https://validator.w3.org/) và [CSS] (https://jigsaw.w3.org/css-validator/) trên code của bạn có thể cho bạn biết chính xác những gì cần sửa!
 
-### 11\. Identify your learning style
+### 11\. Xác định phong cách học tập của bạn
 
-Everybody learns differently -- whether that means you are a visual learner, love videos, need somebody to push you, or you love documentation, you will learn best differently than the person next to you. Identify how you learn best, and rely on resources that fit that style well. For example, I learn best from reading documentation and code examples from that documentation, and I lose focus easily in tutorials.
+Mọi người đều học theo cách khác nhau - cho dù điều đó có nghĩa bạn là người học trực quan, yêu thích các video, cần ai đó thúc đẩy bạn, hoặc bạn yêu thích tài liệu, bạn sẽ có cách học tốt nhất khác với người bên cạnh bạn. Xác định cách bạn học tốt nhất và dựa vào các nguồn tài nguyên phù hợp với phong cách đó. Ví dụ, tôi học tốt nhất bằng cách đọc tài liệu và các ví dụ mã từ tài liệu đó, và tôi dễ mất tập trung trong các tutorial.
 
-### 12\. Struggle, but not too much
+### 12\. Đấu tranh, nhưng không quá nhiều
 
-Struggling a little bit when you are learning is really important so that you can solve the problem yourself and find an answer using resources that exist. That being said, it can become unproductive and demotivating to struggle with a problem for too long. After a few hours, reach out to someone for help!
+Đấu tranh một chút khi bạn đang học là thực sự quan trọng để bạn có thể tự giải quyết vấn đề và tìm câu trả lời bằng cách sử dụng các nguồn tài nguyên sẵn có. Điều đó đang được nói, nó có thể trở nên không hiệu quả và mất khả năng đấu tranh với một vấn đề quá lâu. Sau một vài giờ, hãy liên hệ với ai đó để được trợ giúp!
 
-### 13\. Get comfortable with failure
+### 13\. Thoải mái với thất bại
 
-Programming is hard, and finding the right answer won't be immediate. One of the most pivotal moments in my programming journey was [failing at writing a Sudoku solver](https://dev.to/aspittel/how-i-finally-wrote-a-sudoku-solver-177g). It can be challenging to adjust to not getting everything right away and seeing those error messages, but that is a huge part of programming.
+Lập trình là khó, và không thể tìm ra câu trả lời đúng ngay lập tức. Một trong những khoảnh khắc quan trọng nhất trong hành trình lập trình của tôi là [thất bại trong việc viết một lời giải Sudoku] (https://dev.to/aspittel/how-i-finally-wrote-a-sudoku-solver-177g). Nó có thể khó khăn trong việc điều chỉnh để không nhận được tất cả mọi thứ ngay lập tức và nhìn thấy những thông báo lỗi, nhưng đó là một phần rất lớn của lập trình.
 
-### 14\. Love your error messages
+### 14\. Yêu thích những thông báo lỗi của bạn
 
-Error messages are super helpful, but when you are starting out that red error message can be terrifying! One huge step to take is to read through those messages, understand them, and then use them to solve the problem. In fact, you will get to a point where a program silently failing will be far more annoying than a useful error message!
+Các thông báo lỗi rất hữu ích, nhưng khi bạn bắt đầu cho rằng thông báo lỗi màu đỏ có thể đáng sợ! Một bước tiến lớn cần thực hiện là đọc qua các thông điệp đó, hiểu chúng, và sau đó sử dụng chúng để giải quyết vấn đề. Trong thực tế, bạn sẽ thấy được một chương trình âm thầm lỗi sẽ khó chịu hơn nhiều so với một thông báo lỗi hữu ích! 
 
-### 15\. Some programming languages are easier than others
+### 15\. Một số ngôn ngữ lập trình dễ hơn những ngôn ngữ khác
 
-There isn't a right answer for what programming language to learn first; however, some will be easier to pick up. My top three are Python, Ruby, and JavaScript because all three have a large community behind them, have more straightforward syntax, and are interpreted, so you don't need to go through a compiling process.
+Không có câu trả lời đúng cho ngôn ngữ lập trình nào cần học đầu tiên; tuy nhiên, một số sẽ dễ học hơn. Ba ngôn ngữ đầu tiên của tôi là Python, Ruby và JavaScript vì cả ba đều có một cộng đồng lớn phía sau chúng, có cú pháp đơn giản hơn và được diễn giải, vì vậy bạn không cần phải trải qua quá trình biên dịch.
 
-### 16\. You don't need to know everything
+### 16\. Bạn không cần biết mọi thứ
 
-It is straight up 100% impossible to know everything about programming. Nobody knows every programming language, every single method that's out there, every library and framework, or the perfect solution to every problem. Don't worry about learning everything, just focus on what you do know and extending that.
+Chắc chắn 100% là bạn không thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mọi phương thức đơn lẻ, mọi thư viện và framework, hoặc giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng nó.
 
-### 17\. Depth over Breadth
+### 17\. Sâu hơn là rộng
 
-Learning one thing in depth is better than learning a tiny bit about a lot of things, especially at first. That in-depth knowledge will carry over and make learning that next thing easier. Put the blinders on, so you don't get tempted to drop what you're learning and move to something new.
+Học một điều sâu hơn là tốt hơn là học một chút về rất nhiều thứ, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn.  Put the blinders on, vì vậy bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
 
-### 18\. Focus on the fundamentals first
+### 18\. Tập trung vào các nguyên tắc cơ bản trước
 
-The fundamentals of programming are invaluable, and you will use them no matter what you end up doing with programming. Focus on having a solid knowledge of loops, conditionals, functions, data types, and (in most languages) object-oriented programming before moving on to learning about that awesome library that everyone's talking about. It will be so much easier to learn that library once you know the fundamentals really well. They will also carry over from language to language, so you only have to really learn them once -- after that it's just syntax!
+Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì với lập trình. Tập trung vào việc có kiến thức vững chắc về vòng lặp, điều kiện, chức năng, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó khi bạn biết các nguyên tắc cơ bản thực sự tốt. Họ cũng sẽ chuyển từ ngôn ngữ này sang ngôn ngữ khác, vì vậy bạn chỉ phải thực sự học chúng một lần - sau đó nó chỉ là cú pháp!
 
-### 19\. Get good at Problem-solving
+### 19\. Làm tốt việc Giải quyết vấn đề
 
-Problem-solving is the basis behind programming! Getting better at this is critical. Solving riddles, writing code on paper, and breaking down problems can really help with problem-solving. Something I sometimes see with new developers is that they approach programming like a research problem instead of a problem-solving project -- if they Google something well enough, then they'll have a solution. Yes, Google and Stack Overflow are super helpful, but rely on yourself sometimes too. Try something out a few different ways before researching it. Or, research small parts of the problem instead of the problem itself -- i.e. "turn a String into an array JavaScript" instead of "reverse string JavaScript."
+Giải quyết vấn đề là cơ sở đằng sau lập trình! Giỏi hơn trong việc này là rất quan trọng. Giải quyết các câu đố, viết code trên giấy và các vấn đề chia nhỏ có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một dự án giải quyết vấn đề - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Có, Google và Stack Overflow là rất hữu ích, nhưng nên dựa vào chính mình nữa. Hãy thử một vài cách khác nhau trước khi nghiên cứu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "đảo chuỗi trong JavaScript".
 
-### 20\. Get good at researching
+### 20\.Làm tốt việc nghiên cứu
 
-One of the biggest things to learn is how to find good answers to your questions or to learn new features of your language or library. Using Google is important, so is joining communities and subscribing to resources. The Google template I normally use is "problem language/framework/library" in as few words as possible and without filler. So, "sort array JavaScript", "spin element CSS", or "create router Vue."
+Một trong những điều quan trọng nhất để tìm hiểu là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và đăng ký tài nguyên. Mẫu Google mà tôi thường sử dụng là "ngôn ngữ / framework / thư viện " trong ít từ nhất có thể. Vì vậy, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo router Vue".
 
-### 21\. Build projects you love
+### 21\. Build các dự án bạn yêu thích
 
-When you're learning, you will be building various projects to practice (and show off) your skills. Pick project ideas that are interesting to you; you will be much more likely to finish them and want to put work into them. Related, complete those projects. A few really good finished projects is way more impressive than a bunch of half-finished ones!
+Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa công việc vào chúng. Sau đó, hoàn thành các dự án đó. Một vài dự án thành công ấn tượng hơn nhiều so với đã hoàn thành một nửa!
 
-### 22\. Compare yourself to only yourself
+### 22\. So sánh bản thân với chính bạn
 
-There are a lot of people learning to code out there. Don't compare your progress to someone else's, instead compare yourself to previous you and focus on your own growth.
+Có rất nhiều người học cách viết code ở ngoài kia. Đừng so sánh sự tiến bộ của bạn với người khác, thay vì so sánh bản thân với bạn trước đó và tập trung vào sự phát triển của riêng bạn.
 
-### 23\. Do a bunch of code challenges
+### 23\. Thực hiện các code challenge
 
-Doing quick code challenges can really help solidify the fundamentals. They are great for problem-solving and practicing for interviews. I post one on [Twitter](https://twitter.com/aspittel) every day with the hashtag [#CodingPuzzle](https://twitter.com/hashtag/CodingPuzzle?src=hash) if you want someone else to solve them with!
+Thực hiện các code challenge nhanh có thể giúp bạn củng cố các nguyên tắc cơ bản. Chúng rất tuyệt vời để giải quyết vấn đề và thực hành cho các cuộc phỏng vấn. Tôi đăng một trên [Twitter] (https://twitter.com/aspittel) mỗi ngày với hashtag [#CodingPuzzle] (https://twitter.com/hashtag/CodingPuzzle?src=hash) nếu bạn muốn người khác giải quyết cùng chúng!
 
-### 24\. Celebrate your wins
+### 24\. Ăn mừng chiến thắng của bản thân
 
-Learning to program can be a really difficult process, so when you accomplish something, even if its small, celebrate it! I keep track of my wins in [Google Keep](https://keep.google.com/) so, if I have a bad day, I can come back to those wins and remember them!
+Học lập trình có thể là một quá trình thực sự khó khăn, vì vậy khi bạn hoàn thành một cái gì đó, ngay cả khi nó nhỏ, hãy ăn mừng nó! Tôi theo dõi chiến thắng của mình trong [Google Keep] (https://keep.google.com/) vì vậy, nếu tôi có một ngày tồi tệ, tôi có thể quay lại những chiến thắng đó và nhớ về chúng!
 
-### 25\. Programming is awesome
+### 25\. Lập trình thật tuyệt vời
 
-Programming is really cool because you get to build things. I always come back to this Sandi Metz quote:
+Lập trình thực sự tuyệt vời vì bạn có thể xây dựng mọi thứ. Tôi luôn nhớ lại câu nói Sandi Metz:
 
-> Those of us whose work is to write software are incredibly lucky. Building software is a guiltless pleasure because we get to use our creative energy to get things done. We have arranged our lives to have it both ways; we can enjoy the pure act of writing code in sure knowledge that the code we write has use. We produce things that matter. We are modern craftspeople, building structures that make up present-day reality, and no less than bricklayers or bridge builders, we take justifiable pride in our accomplishments.
+> Những người trong chúng ta có công việc viết phần mềm là vô cùng may mắn. Xây dựng phần mềm là một niềm vui vô tội bởi vì chúng tôi sử dụng năng lượng sáng tạo của mình để hoàn thành công việc. Chúng tôi đã sắp xếp cuộc sống của mình để có cả hai cách; chúng ta có thể tận hưởng hành động thuần túy của viết code trong kiến thức chắc chắn rằng code chúng ta viết đã sử dụng. Chúng tôi sản xuất những thứ quan trọng. Chúng tôi là những người thợ thủ công hiện đại, cấu trúc xây dựng tạo nên hiện thực ngày nay và không kém gì thợ xây hoặc cầu xây dựng cầu, chúng tôi tự hào về thành tích của mình.
 
 >
 
-> This all programmers share, from the most enthusiastic newbie to the apparently jaded elder, whether working at the lightest weight Internet startup or the most staid, long-entrenched enterprise. We want to do our best work. We want our work to have meaning. We want to have fun along the way.
+> Điều này tất cả các lập trình viên đều chia sẻ, từ những người mới nhiệt tình nhất đến người cao tuổi đã mệt mỏi, dù làm việc với công ty startup Internet có trọng lượng nhẹ nhất hay doanh nghiệp cố định lâu đời nhất. Chúng ta muốn làm công việc tốt nhất của chúng ta. Chúng ta muốn công việc của chúng ta có ý nghĩa. Chúng ta muốn có niềm vui trên đường đi.
 
 >
 
 > **Sandi Metz**
 
-## Keep in Touch!
-
-If you liked this article, there's a lot more where it came from! I send out a [newsletter](https://tinyletter.com/ali_writes_code) every week with my favorite links and what I've written that week. You can also [follow me](https://twitter.com/ASpittel) on Twitter to see my posts as they come out!
-
-_The sister post to this article about my favorite resources for new
-programmers is [here](https://zen-of-programming.com/favorite-free-
-resources)_!
