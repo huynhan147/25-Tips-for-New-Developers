@@ -14,7 +14,7 @@ Phần còn lại của bài viết này sẽ có lời khuyên của tôi .
 
 ### 1\. Có lý do của bạn, và hãy nhớ nó
 
-Nếu bạn muốn bắt đầu lập trình, phải có lý do cho điều đó. Cho dù bạn yêu thích viết code, bạn muốn có một sự nghiệp sinh lợi hơn, hoặc bạn đang làm một loạt công việc Excel và bạn muốn làm cho nó hiệu quả hơn. Hãy theo dõi lý do đó; lập trình rất khó, và đôi khi bạn sẽ cảm thấy thất vọng. Nó sẽ là điều cần thiết để giữ cho lý do đó trong tâm trí để gắn bó với nó. Bạn có thể đặt một sticky note trên máy tính của bạn, một lưu ý trên màn hình chính của bạn, hoặc (như tôi) viết nó trên gương của bạn với một cây bút dạ.
+Nếu bạn muốn bắt đầu lập trình, phải có lý do cho điều đó. Cho dù bạn yêu thích viết code, bạn muốn có một sự nghiệp sinh lợi hơn, hoặc bạn đang làm một loạt công việc Excel và bạn muốn làm cho nó hiệu quả hơn. Hãy luôn nhớ lý do đó; lập trình rất khó, và đôi khi bạn sẽ cảm thấy thất vọng. Nó sẽ là điều cần thiết để giữ cho lý do đó trong tâm trí nếu muốn gắn bó với nó. Bạn có thể đặt một sticky note trên máy tính của bạn, một lưu ý trên màn hình chính của bạn, hoặc (như tôi) viết nó trên gương của bạn với một cây bút dạ.
 
 ### 2\. Xây dựng một nền tảng vững chắc
 
@@ -33,7 +33,7 @@ Một trong những phần quan trọng nhất của lập trình là lấy mộ
 
 Liên quan đến điểm trước đó, rất có lợi nếu bạn viết chi tiết những gì bạn đang cố gắng làm bằng các từ đơn giản trước khi cố gắng để viết code. Quá trình này được gọi là mã giả, và nó có thể lấy bất kỳ hình thức nào bạn muốn nó. Nó cũng có thể hữu ích để giải quyết một vấn đề thực sự từ từ trên giấy trước tiên, suy nghĩ về hoặc thậm chí viết ra các bước cá nhân bạn đang dùng để giải quyết vấn đề đó.
 
-### 6\. Embrace the cycle of learning
+### 6\. Yêu thích việc học tập
 
 Nếu bạn đang học code như một nghề phụ, đặc biệt là nếu bạn đã rời khỏi lớp học một thời gian, học cách học hỏi sẽ là một phần quan trọng trong quá trình học của bạn. Có rất nhiều sự thăng trầm, đó là điều tự nhiên! I would brace yourself for that rollercoaster before starting out.
 
@@ -67,7 +67,7 @@ Lập trình là khó, và không thể tìm ra câu trả lời đúng ngay l�
 
 ### 14\. Yêu thích những thông báo lỗi của bạn
 
-Các thông báo lỗi rất hữu ích, nhưng khi bạn bắt đầu cho rằng thông báo lỗi màu đỏ có thể đáng sợ! Một bước tiến lớn cần thực hiện là đọc qua các thông điệp đó, hiểu chúng, và sau đó sử dụng chúng để giải quyết vấn đề. Trong thực tế, bạn sẽ thấy được một chương trình âm thầm lỗi sẽ khó chịu hơn nhiều so với một thông báo lỗi hữu ích! 
+Các thông báo lỗi rất hữu ích, nhưng khi bạn bắt đầu cho rằng thông báo lỗi màu đỏ có thể đáng sợ! Một bước tiến lớn cần thực hiện là đọc qua các thông điệp đó, hiểu chúng, và sau đó sử dụng chúng để giải quyết vấn đề. Trong thực tế, sẽ đến lúc mà bạn thấy khó chịu khi chương trình cứ lỗi 1 cách bí ẩn thay vì thấy nó là một thông báo lỗi hữu ích! 
 
 ### 15\. Một số ngôn ngữ lập trình dễ hơn những ngôn ngữ khác
 
