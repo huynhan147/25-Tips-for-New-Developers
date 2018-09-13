@@ -18,12 +18,11 @@ Nếu bạn muốn bắt đầu lập trình, phải có lý do cho điều đó
 
 ### 2\. Xây dựng một nền tảng vững chắc
 
-Đây có thể là một lời khuyên duy nhất, nhưng tôi nghĩ nó thực sự hữu ích. Trước khi bạn bắt đầu viết code, nếu bạn không xem qua về toán học trong một khoảng thời gian, tôi sẽ xem lại các khái niệm từ Đại số 1. Hầu hết các chương trình được xây dựng trên đại số 1 - tức là, các hàm và các biến. Hiểu được những khái niệm này ngoài chương trình sẽ rất có giá trị trong tương lai. Tôi khuyên bạn nên học khóa Đại số của  [Khan Academy's] (https://www.khanacademy.org/math/algebra/)!
+Đây có thể là một lời khuyên duy nhất, nhưng tôi nghĩ nó thực sự hữu ích. Trước khi bạn bắt đầu viết code, nếu bạn không xem qua về toán học trong một khoảng thời gian, tôi sẽ xem lại các khái niệm từ Đại số 1. Hầu hết các chương trình được xây dựng trên đại số 1 - tức là, các hàm và các biến. Hiểu được những khái niệm này ngoài việc lập trình sẽ rất có giá trị trong tương lai. Tôi khuyên bạn nên học khóa Đại số của  [Khan Academy's] (https://www.khanacademy.org/math/algebra/)!
 
 ### 3\. Tìm một cộng đồng
 
-Một điều khác sẽ thực sự hữu ích là tìm một cộng đồng để hỗ trợ bạn khi bạn bắt đầu viết code. Cộng đồng này sẽ có giá trị bởi vì những người khác sẽ ở cùng một vị trí với bạn, cung cấp các tài nguyên cho nhau và khuyến khích nhau. Tôi khuyên bạn nên tìm kiếm một cuộc gặp mặt trong khu vực của bạn như là giải pháp hàng đầu ở đây, ngay cả những thành phố nhỏ cũng có xu hướng có một nhóm ở gần đó. Nếu
-không có , tôi sẽ đề nghị [dev.to] (https://dev.to/) và cộng đồng CodeNewbie là hai lựa chọn thay thế tuyệt vời. CodeNewbie có một cuộc trò chuyện trên Twitter hàng tuần, một nhóm Slack và các podcast để nghe. Dev.to có một loạt các bài đăng trên blog và một tag  #discuss nơi bạn có thể đăng câu hỏi của mình!
+Một điều khác sẽ thực sự hữu ích là tìm một cộng đồng để hỗ trợ bạn khi bạn bắt đầu viết code. Cộng đồng này sẽ có giá trị bởi vì những người khác sẽ ở cùng một vị trí với bạn, cung cấp các tài nguyên cho nhau và khuyến khích nhau. Tôi khuyên bạn nên tìm kiếm một cuộc gặp mặt trong khu vực của bạn như là giải pháp hàng đầu ở đây, ngay cả những thành phố nhỏ cũng có xu hướng có một nhóm ở gần đó. Nếu không có , tôi đề xuất [dev.to] (https://dev.to/) và cộng đồng CodeNewbie là hai lựa chọn thay thế tuyệt vời. CodeNewbie có mỗi cuộc trò chuyện trên Twitter hàng tuần, một nhóm Slack và các podcast để nghe. Dev.to có một loạt các bài đăng trên blog và bạn có thể đăng câu hỏi của mình kèm một tag #discuss!
 
 ### 4\. Chia nhỏ các vấn đề thành những vấn đề nhỏ hơn
 
@@ -77,17 +76,17 @@ Không có câu trả lời đúng cho ngôn ngữ lập trình nào cần học
 
 Chắc chắn 100% là bạn không thể biết tất cả mọi thứ về lập trình. Không ai biết mọi ngôn ngữ lập trình, mọi phương thức đơn lẻ, mọi thư viện và framework, hoặc giải pháp hoàn hảo cho mọi vấn đề. Đừng lo lắng về việc học tất cả mọi thứ, chỉ cần tập trung vào những gì bạn biết và mở rộng nó.
 
-### 17\. Sâu hơn là rộng
+### 17\. Học Sâu tốt hơn là học rộng
 
-Học một điều sâu hơn là tốt hơn là học một chút về rất nhiều thứ, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn.  Put the blinders on, vì vậy bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
+Học một điều thật sâu tốt hơn là học mỗi thứ một chút, đặc biệt là lúc đầu. Kiến thức chuyên sâu đó sẽ tiếp tục và làm cho việc học điều tiếp theo dễ dàng hơn.  Put the blinders on, vì vậy bạn không bị cám dỗ để bỏ những gì bạn đang học và chuyển sang một cái gì đó mới.
 
 ### 18\. Tập trung vào các nguyên tắc cơ bản trước
 
-Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì với lập trình. Tập trung vào việc có kiến thức vững chắc về vòng lặp, điều kiện, chức năng, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó khi bạn biết các nguyên tắc cơ bản thực sự tốt. Họ cũng sẽ chuyển từ ngôn ngữ này sang ngôn ngữ khác, vì vậy bạn chỉ phải thực sự học chúng một lần - sau đó nó chỉ là cú pháp!
+Các nguyên tắc cơ bản của lập trình là vô giá, và bạn sẽ sử dụng chúng bất kể bạn làm gì với lập trình. Tập trung vào việc có kiến thức vững chắc về vòng lặp, điều kiện, chức năng, kiểu dữ liệu, và (trong hầu hết các ngôn ngữ) lập trình hướng đối tượng trước khi tiếp tục học về thư viện tuyệt vời mà mọi người đang nói đến. Sẽ dễ dàng hơn nhiều khi học thư viện đó khi bạn biết các nguyên tắc cơ bản thực sự tốt. Chúng cũng sẽ chuyển từ ngôn ngữ này sang ngôn ngữ khác, vì vậy bạn chỉ phải thực sự học chúng một lần - sau đó nó chỉ là cú pháp!
 
 ### 19\. Làm tốt việc Giải quyết vấn đề
 
-Giải quyết vấn đề là cơ sở đằng sau lập trình! Giỏi hơn trong việc này là rất quan trọng. Giải quyết các câu đố, viết code trên giấy và các vấn đề chia nhỏ có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một dự án giải quyết vấn đề - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Có, Google và Stack Overflow là rất hữu ích, nhưng nên dựa vào chính mình nữa. Hãy thử một vài cách khác nhau trước khi nghiên cứu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "đảo chuỗi trong JavaScript".
+Giải quyết vấn đề là cơ sở đằng sau lập trình! Làm việc này tốt hơn là rất quan trọng. Giải quyết các câu đố, viết code trên giấy và chia nhỏ các vấn đề có thể thực sự giúp giải quyết vấn đề. Điều mà đôi khi tôi thấy với các nhà phát triển mới là họ tiếp cận lập trình như một vấn đề nghiên cứu thay vì một dự án giải quyết vấn đề - nếu họ Google đủ tốt, thì họ sẽ có một giải pháp. Có, Google và Stack Overflow là rất hữu ích, nhưng nên dựa vào chính mình nữa. Hãy thử một vài cách khác nhau trước khi nghiên cứu nó. Hoặc, nghiên cứu các phần nhỏ của vấn đề thay vì chính vấn đề - tức là "biến một chuỗi thành một mảng JavaScript" thay vì "đảo chuỗi trong JavaScript".
 
 ### 20\.Làm tốt việc nghiên cứu
 
@@ -97,7 +96,7 @@ Một trong những điều quan trọng nhất để tìm hiểu là làm thế
 
 Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa công việc vào chúng. Sau đó, hoàn thành các dự án đó. Một vài dự án thành công ấn tượng hơn nhiều so với đã hoàn thành một nửa!
 
-### 22\. So sánh bản thân với chính bạn
+### 22\. So sánh bản thân với chính mình
 
 Có rất nhiều người học cách viết code ở ngoài kia. Đừng so sánh sự tiến bộ của bạn với người khác, thay vì so sánh bản thân với bạn trước đó và tập trung vào sự phát triển của riêng bạn.
 
